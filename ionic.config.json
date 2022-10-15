@@ -1,0 +1,7 @@
+{
+  "name": "WorkXP",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
